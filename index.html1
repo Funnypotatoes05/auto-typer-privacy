@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Auto Typer Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy for Auto Typer</h1>
+<p>Auto Typer does not collect, store, or transmit any user data.</p>
+<p>All typing is triggered locally in the user’s browser when the user presses the assigned hotkey, using AutoHotkey.</p>
+<p>For Google Docs and similar editors, Auto Typer <strong>cannot function without AutoHotkey</strong>.</p>
+<p>The extension temporarily sends text to AutoHotkey to type into the active page. No personally identifiable information is collected.</p>
+<p>It does not track your activity, website visits, or any personal communications.</p>
+</body>
+</html>
